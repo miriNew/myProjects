@@ -1,0 +1,31 @@
+Z:\B\שרייבר מירי\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\שרייבר מירי\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שרייבר מירי\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\שרייבר מירי\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\שרייבר מירי\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\C#\DotNet2025_0016_7145\bin\BL.deps.json
+E:\C#\DotNet2025_0016_7145\bin\BL.dll
+E:\C#\DotNet2025_0016_7145\bin\BL.pdb
+E:\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+E:\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.AssemblyInfo.cs
+E:\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.csproj.CopyComplete
+E:\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.dll
+E:\C#\DotNet2025_0016_7145\BL\obj\Debug\refint\BL.dll
+E:\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.pdb
+E:\C#\DotNet2025_0016_7145\BL\obj\Debug\ref\BL.dll
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\bin\BL.deps.json
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\bin\BL.dll
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\bin\BL.pdb
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.dll
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\BL\obj\Debug\refint\BL.dll
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\BL\obj\Debug\BL.pdb
+C:\Users\user1\Desktop\מירי\לימודים\C#\DotNet2025_0016_7145\BL\obj\Debug\ref\BL.dll
