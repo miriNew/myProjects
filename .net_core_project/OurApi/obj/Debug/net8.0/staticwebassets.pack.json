@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\זילברברג\\מירי שרייבר\\OurApi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\זילברברג\\מירי שרייבר\\OurApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\זילברברג\\מירי שרייבר\\OurApi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OurApi.props",
+      "PackagePath": "build\\OurApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OurApi.props",
+      "PackagePath": "buildMultiTargeting\\OurApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OurApi.props",
+      "PackagePath": "buildTransitive\\OurApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

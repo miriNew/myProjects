@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "K7Mrq5WyWpUwZiz2hkWxArw3xr5V2PrYWVTjKSxJipY=",
+  "Source": "OurApi",
+  "BasePath": "_content/OurApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OurApi\\wwwroot",
+      "Source": "OurApi",
+      "ContentRoot": "D:\\זילברברג\\מירי שרייבר\\OurApi\\wwwroot\\",
+      "BasePath": "_content/OurApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\זילברברג\\מירי שרייבר\\OurApi\\wwwroot\\css\\site.css",
+      "SourceId": "OurApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\זילברברג\\מירי שרייבר\\OurApi\\wwwroot\\",
+      "BasePath": "_content/OurApi",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\זילברברג\\מירי שרייבר\\OurApi\\wwwroot\\index.html",
+      "SourceId": "OurApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\זילברברג\\מירי שרייבר\\OurApi\\wwwroot\\",
+      "BasePath": "_content/OurApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\זילברברג\\מירי שרייבר\\OurApi\\wwwroot\\js\\site.js",
+      "SourceId": "OurApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\זילברברג\\מירי שרייבר\\OurApi\\wwwroot\\",
+      "BasePath": "_content/OurApi",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
