@@ -1,0 +1,16 @@
+<div class="lesson-grid">
+    <mat-grid-list cols="3" rowHeight="1:1" gutterSize="16px">
+      <mat-grid-tile *ngFor="let lesson of lessons">
+        <mat-card class="lesson-card lesson-details">
+          <mat-card-title>{{ lesson.name }}</mat-card-title>
+          <mat-card-content>
+            <p><strong>מורה:</strong> {{ lesson.teacher }}</p>
+            <p><strong>מפגשים:</strong> {{ lesson.sessions }}</p>
+            <p><strong>תאריך התחלה:</strong> {{ lesson.startDate }}</p>
+            <p><strong>יום ושעה:</strong> {{ lesson.day }} {{ lesson.time }}</p>
+            <p><strong>מחיר:</strong> {{ lesson.price }} ש"ח</p>
+          </mat-card-content>
+        </mat-card>
+      </mat-grid-tile>
+    </mat-grid-list>
+  </div>

@@ -1,0 +1,8 @@
+<mat-grid-list cols="3" rowHeight="100px" gutterSize="16px">
+    <mat-grid-tile *ngFor="let lesson of lessons" [style.background]="isPast(lesson.startDate) ? '#f8d7da' : '#d1ecf1'">
+      <button mat-button (click)="openDetails(lesson)">
+        {{ lesson.name }}
+      </button>
+    </mat-grid-tile>
+  </mat-grid-list>
+  

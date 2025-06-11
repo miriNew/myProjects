@@ -1,0 +1,10 @@
+<ag-grid-angular
+  style="width: 100%; height: 500px;"
+  class="ag-theme-alpine"
+  [rowData]="rowData"
+  [columnDefs]="columnDefs"
+  [defaultColDef]="{ sortable: true, filter: true, resizable: true }"
+  (cellClicked)="onCellClicked($event)"
+  [rowClassRules]="rowClassRules">
+</ag-grid-angular>
+
