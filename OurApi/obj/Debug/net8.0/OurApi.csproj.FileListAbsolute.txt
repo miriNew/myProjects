@@ -1,0 +1,172 @@
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\OurApi.exe
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\OurApi.deps.json
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\OurApi.runtimeconfig.json
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\OurApi.dll
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\OurApi.pdb
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.build.OurApi.props
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\scopedcss\bundle\OurApi.styles.css
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.csproj.Up2Date
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.dll
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.pdb
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.genruntimeconfig.cache
+C:\Users\Teacher\Desktop\2024-10-08\OurApi\obj\Debug\net8.0\ref\OurApi.dll
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\appsettings.Development.json
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\appsettings.json
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\OurApi.exe
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\OurApi.deps.json
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\OurApi.runtimeconfig.json
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\OurApi.dll
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\OurApi.pdb
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\זילברברג\2024-10-08\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.build.OurApi.props
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\scopedcss\bundle\OurApi.styles.css
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.csproj.Up2Date
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.dll
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.pdb
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\OurApi.genruntimeconfig.cache
+D:\זילברברג\2024-10-08\OurApi\obj\Debug\net8.0\ref\OurApi.dll
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\appsettings.json
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\OurApi.exe
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\OurApi.deps.json
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\OurApi.runtimeconfig.json
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\OurApi.dll
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\OurApi.pdb
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.build.OurApi.props
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\scopedcss\bundle\OurApi.styles.css
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.csproj.Up2Date
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.dll
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.pdb
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\OurApi.genruntimeconfig.cache
+Z:\B\שרייבר מירי\זילברברג\פרויקט\OurApi\obj\Debug\net8.0\ref\OurApi.dll
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\appsettings.Development.json
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\appsettings.json
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.staticwebassets.runtime.json
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.exe
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.deps.json
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.runtimeconfig.json
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.dll
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.pdb
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets.build.json
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets.development.json
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.build.OurApi.props
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\scopedcss\bundle\OurApi.styles.css
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.csproj.CopyComplete
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.dll
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.pdb
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.genruntimeconfig.cache
+Z:\mora\זילברברג\FS\שיעור 4\מירי שרייבר\OurApi\obj\Debug\net8.0\ref\OurApi.dll
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\appsettings.Development.json
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\appsettings.json
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.staticwebassets.runtime.json
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.exe
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.deps.json
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.runtimeconfig.json
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.dll
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\OurApi.pdb
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\זילברברג\מירי שרייבר\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.build.OurApi.props
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\scopedcss\bundle\OurApi.styles.css
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.csproj.Up2Date
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.dll
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.pdb
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.genruntimeconfig.cache
+D:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\ref\OurApi.dll
+F:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+F:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+F:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+F:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+F:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+F:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+F:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.dll
+F:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+F:\זילברברג\מירי שרייבר\OurApi\obj\Debug\net8.0\OurApi.pdb
